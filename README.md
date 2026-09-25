@@ -1,6 +1,6 @@
-# ✨ rie
+# > rie
 
-Yet another [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) theme for those who love to work in Terminal rather than GUI.
+Yet another [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) theme for those who love the Terminal’s clean, minimalistic power over a GUI.
 
 ## 📷 Preview
 
